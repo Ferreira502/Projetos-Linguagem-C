@@ -1,3 +1,4 @@
+//DESCOBRIR SE O NÚMERO É ÍMPAR OU PAR
 #include<stdio.h>
 
 int main (){
